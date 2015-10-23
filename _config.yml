@@ -1,9 +1,9 @@
 # Site settings
 title: OperaToolkit
-email: kogan.gene@gmail.com
-description: OperaToolkit is a bunch of cool stuff made by Lisa, Colin, and Gene
+email: operatoolkit@gmail.com
+description: OperaToolkit is cool stuff made by Lisa, Colin, and Gene
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.genekogan.com" # the base hostname & protocol for your site
+url: "http://operatoolkit.github.io" # the base hostname & protocol for your site
 twitter_username: genekogan
 github_username:  genekogan
 

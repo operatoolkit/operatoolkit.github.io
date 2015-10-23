@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OperaToolkit</title>
-    <description>OperaToolkit is a bunch of cool stuff made by Lisa, Colin, and Gene</description>
-    <link>http://www.genekogan.com/</link>
-    <atom:link href="http://www.genekogan.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Oct 2015 14:50:36 -0400</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2015 14:50:36 -0400</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <description>OperaToolkit is cool stuff made by Lisa, Colin, and Gene</description>
+    <link>http://operatoolkit.github.io/</link>
+    <atom:link href="http://operatoolkit.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 23 Oct 2015 18:01:21 -0400</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2015 18:01:21 -0400</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Fri, 23 Oct 2015 10:44:57 -0400</pubDate>
-        <link>http://www.genekogan.com/jekyll/update/2015/10/23/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://www.genekogan.com/jekyll/update/2015/10/23/welcome-to-jekyll.html</guid>
+        <link>http://operatoolkit.github.io/jekyll/update/2015/10/23/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://operatoolkit.github.io/jekyll/update/2015/10/23/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
